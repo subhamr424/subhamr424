@@ -1,28 +1,29 @@
-# 👋 Hi, I'm Subham Rathore
-
-### 🚀 DevOps Engineer | Cloud | Kubernetes | CI/CD | Infrastructure Automation
+# Hi, I'm Subham Rathore 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=DevOps+Engineer;3%2B+Years+of+Experience;Cloud+%26+Infrastructure+Automation;Kubernetes+%7C+Docker+%7C+AWS;GitOps+%7C+Argo+CD+%7C+Terraform;Observability+%7C+Prometheus+%7C+Grafana;Building+Reliable+Cloud-Native+Platforms" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=DevOps+Engineer;Cloud+%7C+Kubernetes+%7C+Automation;AWS+%7C+Azure;CI%2FCD+%7C+GitOps+%7C+Infrastructure+as+Code;3%2B+Years+of+DevOps+Experience" alt="Typing SVG" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-I'm a **DevOps Engineer with 3+ years of experience** working on cloud infrastructure, containerization, Kubernetes, CI/CD, automation, monitoring, and production infrastructure.
+I'm a **DevOps Engineer with 3+ years of experience** working on
+cloud infrastructure, Kubernetes, CI/CD, automation, observability,
+and production-grade DevOps platforms.
 
-I enjoy building **reliable, scalable and automated infrastructure** and working with modern cloud-native technologies.
+I enjoy designing and automating reliable infrastructure and
+building scalable cloud-native environments.
 
-* 🔭 Currently working on **DevOps, Cloud & Kubernetes**
-* ☁️ Working with **AWS & GCP**
-* ☸️ Building and managing **Kubernetes-based platforms**
-* 🚀 Implementing **CI/CD and GitOps workflows**
-* 🏗️ Automating infrastructure with **Terraform & Ansible**
-* 📊 Building **Monitoring & Observability** solutions
-* 🔐 Working with production infrastructure and troubleshooting
-* 🤖 Exploring **AI-powered DevOps & Kubernetes automation**
-* 💡 Interested in **Cloud-Native, Platform Engineering & DevOps Automation**
+- 🔭 Working on **DevOps, Cloud & Kubernetes**
+- ☁️ Experienced with **AWS & Azure**
+- ☸️ Working with **Kubernetes, Helm & Istio**
+- 🔄 Building **CI/CD & GitOps pipelines**
+- 🏗️ Infrastructure automation using **Terraform & Ansible**
+- 📊 Implementing **Monitoring & Observability**
+- 🤖 Exploring **AI-powered DevOps & Kubernetes automation**
+- 🐧 Strong experience with **Linux & Infrastructure Administration**
+- 💡 Interested in **Cloud-Native Architecture and Platform Engineering**
 
 ---
 
@@ -31,167 +32,157 @@ I enjoy building **reliable, scalable and automated infrastructure** and working
 ### ☁️ Cloud
 
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="50"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </p>
 
-**AWS • GCP • EC2 • EKS • VPC • ALB • IAM • Auto Scaling • Cloud Infrastructure**
-
----
-
-### 🐳 Containers & Kubernetes
+### ☸️ DevOps & Kubernetes
 
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="55"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="50"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white" />
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
 </p>
-
-**Docker • Kubernetes • K3s • Helm • Istio • Kubernetes Networking • Ingress • Service Mesh**
-
----
 
 ### 🔄 CI/CD & GitOps
 
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="50"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitOps-2088FF?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
-**Jenkins • GitLab CI/CD • GitHub • Argo CD • GitOps • Automated Deployments**
-
----
 
 ### 🏗️ Infrastructure as Code & Automation
 
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="50"/>
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
-**Terraform • Ansible • Infrastructure Automation • Configuration Management**
-
----
 
 ### 📊 Monitoring & Observability
 
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="50"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Loki-F2CC0C?style=for-the-badge&logo=grafana&logoColor=black" />
+  <img src="https://img.shields.io/badge/Jaeger-60D4C7?style=for-the-badge&logo=jaeger&logoColor=black" />
 </p>
-
-**Prometheus • Grafana • Loki • Promtail • Jaeger • Kiali • Metrics • Logs • Tracing**
-
----
 
 ### 🗄️ Databases & Infrastructure
 
-**PostgreSQL • Patroni • etcd • Redis • MongoDB • Linux • Bash**
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
 
 ---
 
-## 🚀 Featured DevOps Projects
+## 🚀 Featured Projects
 
-### ☁️ AWS EKS Microservices DevOps
+### ☸️ AWS EKS Microservices DevOps
 
-**Repository:** `aws-eks-microservices-devops`
+**AWS EKS based production-style microservices deployment**
 
-Production-style microservices deployment on AWS EKS with containerization, Kubernetes and DevOps automation.
+🔹 Amazon EKS  
+🔹 Kubernetes  
+🔹 Docker  
+🔹 CI/CD  
+🔹 Infrastructure Automation  
+🔹 Cloud-native architecture
 
-**Focus:**
-`AWS` `EKS` `Docker` `Kubernetes` `CI/CD` `Infrastructure`
+👉 **Repository:**  
+[aws-eks-microservices-devops](https://github.com/subhamr424/aws-eks-microservices-devops)
 
 ---
 
 ### 🏗️ AWS 3-Tier Architecture
 
-**Repository:** `aws-3tier-architecture-devops`
+**Highly available 3-tier architecture deployed on AWS**
 
-AWS-based highly available 3-tier architecture demonstrating cloud infrastructure and DevOps practices.
+🔹 VPC  
+🔹 Load Balancer  
+🔹 EC2  
+🔹 Auto Scaling  
+🔹 Networking  
+🔹 Infrastructure as Code
 
-**Focus:**
-`AWS` `VPC` `EC2` `ALB` `Auto Scaling` `Terraform`
+👉 **Repository:**  
+[aws-3tier-architecture-devops](https://github.com/subhamr424/aws-3tier-architecture-devops)
 
 ---
 
 ### 🤖 AI DevOps Kubernetes Agent
 
-**Repository:** `AI-DevOps-Kubernetes-Agent`
+**AI-powered DevOps automation and Kubernetes operations platform**
 
-AI-powered DevOps project focused on Kubernetes operations, troubleshooting and automation.
+🔹 Kubernetes  
+🔹 AI / LLM Integration  
+🔹 DevOps Automation  
+🔹 Self-Healing Concepts  
+🔹 Cluster Operations
 
-**Focus:**
-`AI` `DevOps` `Kubernetes` `Automation` `Cloud-Native`
+👉 **Repository:**  
+[AI-DevOps-Kubernetes-Agent](https://github.com/subhamr424/AI-DevOps-Kubernetes-Agent)
 
 ---
 
 ### 🧠 Intelligent DevOps Platform
 
-**Repository:** `intelligent-devops-platform`
+**Intelligent platform for Kubernetes and DevOps automation**
 
-An intelligent platform combining DevOps automation, Kubernetes infrastructure and observability.
+🔹 Kubernetes  
+🔹 Automation  
+🔹 Observability  
+🔹 DevOps Platform Engineering  
+🔹 AI-driven operations
 
-**Focus:**
-`Kubernetes` `DevOps` `Automation` `Observability`
+👉 **Repository:**  
+[intelligent-devops-platform](https://github.com/subhamr424/intelligent-devops-platform)
 
 ---
 
-### 🛒 E-Commerce Microservices + Istio
+### 🛒 E-Commerce Microservices with Istio
 
-**Repository:** `ecommerce-microservices-istio`
+**Cloud-native e-commerce microservices platform using Kubernetes and Istio**
 
-Cloud-native e-commerce microservices platform using Kubernetes and Istio service mesh.
+🔹 Kubernetes  
+🔹 Docker  
+🔹 Istio Service Mesh  
+🔹 Microservices  
+🔹 Traffic Management  
+🔹 Observability
 
-**Focus:**
-`Microservices` `Kubernetes` `Istio` `Service Mesh` `Observability`
+👉 **Repository:**  
+[ecommerce-microservices-istio](https://github.com/subhamr424/ecommerce-microservices-istio)
 
 ---
 
 ### ⚙️ DevOps Platform
 
-**Repository:** `devops-platform`
+**DevOps platform focused on automation, deployment and infrastructure management**
 
-DevOps platform project focused on automation, deployment workflows and cloud-native infrastructure.
+🔹 CI/CD  
+🔹 Kubernetes  
+🔹 Infrastructure Automation  
+🔹 GitOps  
+🔹 DevOps Tooling
 
-**Focus:**
-`DevOps` `CI/CD` `Automation` `Infrastructure`
-
----
-
-### 💼 DevOps Portfolio
-
-**Repository:** `devops-portfolio`
-
-My collection of DevOps projects, infrastructure implementations and cloud-native experiments.
-
----
-
-## 📈 What I Work With
-
-```text
-Cloud              → AWS | GCP
-Containers         → Docker | Kubernetes | K3s
-Orchestration      → Kubernetes | Helm
-Service Mesh       → Istio
-CI/CD              → Jenkins | GitLab CI/CD
-GitOps             → Argo CD
-IaC                → Terraform
-Automation         → Ansible | Bash
-Monitoring         → Prometheus | Grafana
-Logging            → Loki | Promtail
-Tracing            → Jaeger
-Databases          → PostgreSQL | Redis | MongoDB
-HA / DR            → Patroni | etcd
-OS                 → Linux
-```
+👉 **Repository:**  
+[devops-platform](https://github.com/subhamr424/devops-platform)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subhamr424&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhamr424&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=subhamr424&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhamr424&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -199,7 +190,7 @@ OS                 → Linux
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=subhamr424&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=subhamr424&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -215,46 +206,34 @@ OS                 → Linux
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=subhamr424&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=subhamr424&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </p>
-
----
-
-## 🎯 Current Focus
-
-```text
-☁️ Cloud Infrastructure
-☸️ Kubernetes & Cloud-Native
-🚀 CI/CD & GitOps
-🏗️ Infrastructure as Code
-📊 Observability & Monitoring
-🤖 AI + DevOps Automation
-🔐 Production Infrastructure
-⚙️ Platform Engineering
-```
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://github.com/subhamr424">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
+  <a href="https://github.com/subhamr424">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
+  <b>⚡ Automate. Deploy. Monitor. Scale.</b>
+</p>
 
-### 🚀 Automate. Deploy. Monitor. Scale.
+<p align="center">
+  <i>Building reliable infrastructure, one deployment at a time.</i>
+</p>
 
-**Building reliable infrastructure, one deployment at a time.**
+---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=subhamr424&style=flat-square&color=blue" alt="Profile Views" />
 </p>
