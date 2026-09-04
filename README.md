@@ -1,193 +1,220 @@
-# Hi, I'm Subham Rathore 👋
+# ⚡ Subham Rathore
+
+### `DevOps Engineer` • `Cloud Infrastructure` • `Kubernetes` • `Automation`
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=DevOps+Engineer;Cloud+%7C+Kubernetes+%7C+Automation;AWS+%7C+Azure;CI%2FCD+%7C+GitOps+%7C+Infrastructure+as+Code;3%2B+Years+of+DevOps+Experience" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=850&lines=3%2B+Years+of+DevOps+Engineering;Building+Cloud-Native+Infrastructure;Kubernetes+%7C+GitOps+%7C+CI%2FCD;AWS+%7C+Azure+%7C+Linux;Automating+Infrastructure%2C+Deployments+%26+Operations" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/subhamr424">
+    <img src="https://img.shields.io/badge/GitHub-subhamr424-181717?style=for-the-badge&logo=github" />
+  </a>
+  <img src="https://img.shields.io/badge/DevOps-3%2B%20Years-2496ED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure-FF9900?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kubernetes-Platform%20Engineering-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a **DevOps Engineer with 3+ years of experience** working on
-cloud infrastructure, Kubernetes, CI/CD, automation, observability,
-and production-grade DevOps platforms.
+I'm a **DevOps Engineer with 3+ years of experience** focused on building reliable, automated and scalable infrastructure.
 
-I enjoy designing and automating reliable infrastructure and
-building scalable cloud-native environments.
+I work across the complete DevOps lifecycle — from **infrastructure provisioning and containerization** to **Kubernetes orchestration, CI/CD, GitOps, observability and production operations**.
 
-- 🔭 Working on **DevOps, Cloud & Kubernetes**
-- ☁️ Experienced with **AWS & Azure**
-- ☸️ Working with **Kubernetes, Helm & Istio**
-- 🔄 Building **CI/CD & GitOps pipelines**
-- 🏗️ Infrastructure automation using **Terraform & Ansible**
-- 📊 Implementing **Monitoring & Observability**
-- 🤖 Exploring **AI-powered DevOps & Kubernetes automation**
-- 🐧 Strong experience with **Linux & Infrastructure Administration**
-- 💡 Interested in **Cloud-Native Architecture and Platform Engineering**
+```text
+Infrastructure  →  Automation  →  Containers  →  Kubernetes
+       ↓               ↓              ↓              ↓
+    AWS/Azure       Terraform       Docker        Istio
+       ↓               ↓              ↓              ↓
+    Security       Ansible         CI/CD          GitOps
+       └──────────────────────┬──────────────────────┘
+                              ↓
+                    Observability & Reliability
+```
+
+### 🚀 What I Work On
+
+* ☁️ Cloud infrastructure on **AWS & Azure**
+* ☸️ Kubernetes administration and application deployments
+* 🔄 CI/CD pipelines and deployment automation
+* 🌿 GitOps workflows with **Argo CD**
+* 🏗️ Infrastructure as Code using **Terraform**
+* 🤖 Infrastructure automation using **Ansible**
+* 🐳 Containerization with **Docker**
+* 🕸️ Service mesh and traffic management with **Istio**
+* 📊 Monitoring and observability with **Prometheus & Grafana**
+* 📝 Centralized logging with **Loki**
+* 🐘 PostgreSQL high availability and DR with **Patroni**
+* 🤖 Exploring **AI-driven DevOps and Kubernetes automation**
 
 ---
 
-## 🛠️ Tech Stack
+# 🧰 Engineering Stack
 
 ### ☁️ Cloud
 
 <p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=aws,azure" />
 </p>
 
-### ☸️ DevOps & Kubernetes
+**AWS** • EC2 • VPC • ALB • IAM • Auto Scaling • EKS • S3 • CloudWatch
+
+**Azure** • Virtual Machines • Networking • Identity • Containers • Monitoring
+
+---
+
+### ☸️ Containers & Platform
 
 <p>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white" />
-  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,helm" />
 </p>
 
-### 🔄 CI/CD & GitOps
+**Docker** • **Kubernetes** • **Helm** • **Istio** • **K3s** • **Kind**
+
+---
+
+### 🔄 DevOps & GitOps
 
 <p>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitOps-2088FF?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,jenkins,terraform,ansible,argo" />
 </p>
 
-### 🏗️ Infrastructure as Code & Automation
+**Git** • **GitHub** • **GitLab** • **Jenkins** • **Terraform** • **Ansible** • **Argo CD**
+
+---
+
+### 📊 Observability
 
 <p>
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
 </p>
 
-### 📊 Monitoring & Observability
+**Prometheus** • **Grafana** • **Loki** • **Promtail** • Kubernetes Monitoring • Logging
+
+---
+
+### 🐧 Systems & Databases
 
 <p>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Loki-F2CC0C?style=for-the-badge&logo=grafana&logoColor=black" />
-  <img src="https://img.shields.io/badge/Jaeger-60D4C7?style=for-the-badge&logo=jaeger&logoColor=black" />
+<img src="https://skillicons.dev/icons?i=linux,bash,postgres,mongodb,redis" />
 </p>
 
-### 🗄️ Databases & Infrastructure
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
+**Linux** • **Bash** • **PostgreSQL** • **MongoDB** • **Redis**
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Engineering Projects
 
-### ☸️ AWS EKS Microservices DevOps
+## 🤖 AI DevOps Kubernetes Agent
 
-**AWS EKS based production-style microservices deployment**
+**Repository:** `AI-DevOps-Kubernetes-Agent`
 
-🔹 Amazon EKS  
-🔹 Kubernetes  
-🔹 Docker  
-🔹 CI/CD  
-🔹 Infrastructure Automation  
-🔹 Cloud-native architecture
+An AI-driven approach to Kubernetes operations focused on turning operational tasks into intelligent, automated workflows.
 
-👉 **Repository:**  
-[aws-eks-microservices-devops](https://github.com/subhamr424/aws-eks-microservices-devops)
+**Focus Areas**
+
+`AI` `Kubernetes` `DevOps Automation` `Self-Healing` `Operations`
 
 ---
 
-### 🏗️ AWS 3-Tier Architecture
+## 🧠 Intelligent DevOps Platform
 
-**Highly available 3-tier architecture deployed on AWS**
+**Repository:** `intelligent-devops-platform`
 
-🔹 VPC  
-🔹 Load Balancer  
-🔹 EC2  
-🔹 Auto Scaling  
-🔹 Networking  
-🔹 Infrastructure as Code
+A platform-oriented DevOps project combining infrastructure, deployment automation, Kubernetes workloads and operational visibility.
 
-👉 **Repository:**  
-[aws-3tier-architecture-devops](https://github.com/subhamr424/aws-3tier-architecture-devops)
+**Focus Areas**
+
+`Platform Engineering` `Kubernetes` `Automation` `Observability` `DevOps`
 
 ---
 
-### 🤖 AI DevOps Kubernetes Agent
+## 🛒 E-Commerce Microservices + Istio
 
-**AI-powered DevOps automation and Kubernetes operations platform**
+**Repository:** `ecommerce-microservices-istio`
 
-🔹 Kubernetes  
-🔹 AI / LLM Integration  
-🔹 DevOps Automation  
-🔹 Self-Healing Concepts  
-🔹 Cluster Operations
+A cloud-native microservices environment designed around Kubernetes and Istio for service-to-service communication, traffic management and observability.
 
-👉 **Repository:**  
-[AI-DevOps-Kubernetes-Agent](https://github.com/subhamr424/AI-DevOps-Kubernetes-Agent)
+**Focus Areas**
+
+`Microservices` `Kubernetes` `Istio` `Service Mesh` `Observability`
 
 ---
 
-### 🧠 Intelligent DevOps Platform
+## 🏗️ DevOps Platform
 
-**Intelligent platform for Kubernetes and DevOps automation**
+**Repository:** `devops-platform`
 
-🔹 Kubernetes  
-🔹 Automation  
-🔹 Observability  
-🔹 DevOps Platform Engineering  
-🔹 AI-driven operations
+Infrastructure and DevOps automation project focused on creating reusable deployment and platform workflows.
 
-👉 **Repository:**  
-[intelligent-devops-platform](https://github.com/subhamr424/intelligent-devops-platform)
+**Focus Areas**
+
+`Infrastructure` `Automation` `CI/CD` `Cloud` `DevOps`
 
 ---
 
-### 🛒 E-Commerce Microservices with Istio
+## ☁️ AWS EKS Microservices DevOps
 
-**Cloud-native e-commerce microservices platform using Kubernetes and Istio**
+**Repository:** `aws-eks-microservices-devops`
 
-🔹 Kubernetes  
-🔹 Docker  
-🔹 Istio Service Mesh  
-🔹 Microservices  
-🔹 Traffic Management  
-🔹 Observability
+A production-style Kubernetes deployment architecture using AWS EKS for running containerized microservices.
 
-👉 **Repository:**  
-[ecommerce-microservices-istio](https://github.com/subhamr424/ecommerce-microservices-istio)
+**Focus Areas**
+
+`AWS` `EKS` `Docker` `Kubernetes` `CI/CD` `Cloud`
 
 ---
 
-### ⚙️ DevOps Platform
+## 🏢 AWS 3-Tier Architecture
 
-**DevOps platform focused on automation, deployment and infrastructure management**
+**Repository:** `aws-3tier-architecture-devops`
 
-🔹 CI/CD  
-🔹 Kubernetes  
-🔹 Infrastructure Automation  
-🔹 GitOps  
-🔹 DevOps Tooling
+AWS-based three-tier architecture demonstrating separation of application layers with cloud networking and infrastructure automation principles.
 
-👉 **Repository:**  
-[devops-platform](https://github.com/subhamr424/devops-platform)
+**Focus Areas**
+
+`AWS` `VPC` `EC2` `ALB` `Architecture` `Terraform`
 
 ---
 
-## 📊 GitHub Stats
+# 🔥 DevOps Journey
+
+```text
+Linux
+  │
+  ├── Networking
+  │
+  ├── Git & GitHub
+  │
+  ├── Docker
+  │
+  ├── CI/CD
+  │
+  ├── AWS / Azure
+  │
+  ├── Terraform + Ansible
+  │
+  ├── Kubernetes
+  │
+  ├── Helm + Argo CD
+  │
+  ├── Istio
+  │
+  ├── Prometheus + Grafana + Loki
+  │
+  └── AI-powered DevOps
+```
+
+---
+
+# 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subhamr424&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhamr424&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=subhamr424&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhamr424&layout=compact&hide_border=true&theme=tokyonight" height="170"/>
 </p>
-
----
-
-## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=subhamr424&theme=tokyonight&hide_border=true" />
@@ -195,45 +222,65 @@ building scalable cloud-native environments.
 
 ---
 
-## 📈 Contribution Graph
+# 🧩 Currently Building
+
+```yaml
+focus:
+  - Kubernetes Platform Engineering
+  - AI-powered DevOps
+  - Cloud Infrastructure
+  - GitOps
+  - Observability
+  - Infrastructure Automation
+
+cloud:
+  - AWS
+  - Azure
+
+platform:
+  - Kubernetes
+  - Docker
+  - Helm
+  - Istio
+  - Argo CD
+
+automation:
+  - Terraform
+  - Ansible
+  - CI/CD
+```
+
+---
+
+# 🎯 Engineering Philosophy
+
+> **Automate what can be automated.
+> Observe what runs in production.
+> Design infrastructure that can recover.
+> Keep deployments repeatable.**
+
+---
+
+# 🤝 Let's Connect
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhamr424&theme=tokyo-night&hide_border=true" />
+
+<a href="https://github.com/subhamr424">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=subhamr424&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/subhamr424">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <b>⚡ Automate. Deploy. Monitor. Scale.</b>
+  <b>⚙️ Build • Automate • Deploy • Observe • Improve</b>
 </p>
 
 <p align="center">
-  <i>Building reliable infrastructure, one deployment at a time.</i>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=subhamr424&style=flat-square&color=blue" alt="Profile Views" />
+  <sub>Infrastructure is code. Reliability is engineering.</sub>
 </p>
